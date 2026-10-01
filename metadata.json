@@ -1,0 +1,8 @@
+{
+  "name": "Hành Trình Gắn Kết: Thử Thách Cặp Đôi",
+  "description": "Ứng dụng tương tác 20 màn chơi thử thách tình yêu ngọt ngào, hài hước và gắn kết dành cho các cặp đôi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
